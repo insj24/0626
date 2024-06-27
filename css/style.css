@@ -95,7 +95,7 @@ padding-bottom: 80px;
     display: flex;
     position: relative;
     width: 1920px;
-    height: 1080px;
+    height: auto;
 }
 
 .vi1 img {
